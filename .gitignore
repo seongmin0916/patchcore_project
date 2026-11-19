@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+mvtec_anomaly_detection/
+.env
+.env.*
+*.pt
+*.pth
+*.ckpt
+*.safetensors
